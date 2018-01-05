@@ -10,6 +10,8 @@ from msFEM2D import MultiScale
 from saveGauss import saveGauss2D
 import time
 
+#hahahah
+
 vel = -0.0001; confining=-1.e5;
 lx = 0.05; ly = 0.1; # sample size, 50mm by 100mm
 nx = 2; ny = 4; # sample discretization, 2 by 4 quadrilateral elements
